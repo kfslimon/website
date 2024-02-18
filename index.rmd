@@ -1,0 +1,13 @@
+---
+title: "index"
+author: "Kelley Slimon"
+date: "2/18/2024"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+About Me:
+
